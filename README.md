@@ -24,6 +24,6 @@
 - ⚡ Fun fact: I spend almost 16 hours listening to songs and coding every day.
 
 
-<a href="https://github.com/iampawan">
+<a href="https://github.com/dreamxyz95">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamxyz95&theme=light&hide_langs_below=1" />
 </a>
