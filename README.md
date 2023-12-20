@@ -16,7 +16,7 @@
 <br/>
 
 - 🔭 I’m currently working on startup project.
-- 🌱 I’m currently learning more about BlockChain, FLutter and VueJs.
+- 🌱 I’m currently learning more about BlockChain, Flutter, NextJs, NodeJs.
 - 🤔 I’m looking for help to improve my skills and knowledge.
 - 💬 Ask me about Laravel or any tech-related stuff.
 - 😄 Pronouns: He/His
